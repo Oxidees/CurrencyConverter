@@ -1,4 +1,4 @@
-# MADE BY: Oxide.#9715. If yo want a better verison contact me! I can probably do it for free.
+# MADE BY: Oxide.#9715. If yo want a better verison contact me! I can probably do a personal one for free.
 #1 IMPORT PART
 
 import selenium
